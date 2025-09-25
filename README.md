@@ -41,3 +41,12 @@ sh run.sh
 Special thanks to the following repositories for their invaluable code
 Our trainer is partially adapted from [trl](https://github.com/huggingface/trl),and evaluator is from
 [UniEval](https://github.com/maszhongming/UniEval)
+
+## 🤗 Checkpoint Availability
+We have made the trained model checkpoint based on 
+[Qwen/Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct) publicly available on Hugging Face for reproducibility and further research:
+
+🌟 [hvo4ts/cnn-dailymail](https://huggingface.co/hvo4ts/cnn-dailymail)
+
+🌟 [hvo4ts/BillSum](https://huggingface.co/hvo4ts/BillSum/tree/main)
+
